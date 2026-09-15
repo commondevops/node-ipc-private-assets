@@ -10,13 +10,13 @@ One person's domain name expired.
 An attacker bought the domain name and recreated the email address that had access to release official updates. 
 They then published malicious updates that stole passwords.
 
-Think of the trust you place in routine software updates. The natural response is to automatically update, expecting an improvement, not something designed to steal from you.
+Think of the trust you place in routine software updates. I automate my updates and fully expect an improvement. Having an update that steals passwords, is a scenario that extends further than Node-IPC.
 
-That is what makes this more than a problem for one software project.  What would happen in your organization if an important trusted employee had their identity stolen?
+That is what makes this more than a problem for one software project. Do we reconsider trusting every update? What would happen in your organization if an important trusted employee had their identity stolen?
 
-It would be easy to say just remove inactive accounts, but in open-source communities it is much trickier. We often have to rely on strangers, and a project can be stable for years without needing an update.
+In open-source communities, it's even trickier. We often rely on strangers, and projects can be stable for years between updates.
 
-For more info, read the full report here:
+For more details, the official post-incident report:
 https://commondevops.com/node-ipc-supply-chain-incident-report/
 
-#Cybersecurity #SoftwareSupplyChain #DevSecOps #TechnicalLeadership
+#Cybersecurity #SupplyChain #DevSecOps #TechnicalLeadership #teamPCP #AI
