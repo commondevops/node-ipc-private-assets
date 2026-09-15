@@ -12,8 +12,11 @@ https://www.youtube.com/watch?v=TZ04u6cj1ls
 Official web version of post-incident: 
 
 https://commondevops.com/node-ipc-supply-chain-incident-report/
+
 https://github.com/commondevops/node-ipc-supply-chain-incident-report
-assets/node-ipc-post-incident-report.pdf
+
+https://github.com/commondevops/node-ipc-supply-chain-incident-report/blob/main/assets/node-ipc-post-incident-report.pdf
+
 
 Other links:
 
