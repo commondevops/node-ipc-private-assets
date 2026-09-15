@@ -12,6 +12,8 @@ Think of the trust you place in routine software updates. I automate my updates 
 In open-source communities, it's even trickier. We often rely on strangers. And, projects can be stable for years between updates. This hacking pattern is likely to occur more frequently, as AI automates finding these gaps.
 
 For more details, the official post-incident report:
+
 https://commondevops.com/node-ipc-supply-chain-incident-report/
+
 
 #Cybersecurity #SupplyChain #DevSecOps #TechnicalLeadership #teamPCP #AI
